@@ -55,7 +55,7 @@ I'm a Computer Science Master's graduate and Data/Software/AI Engineer passionat
 * A Retrieval-Augmented Generation chatbot that answers customer support questions based two differnt idenpotent topics based on the questions.
 
 ### **AdVision - Gen AI Advertisement Generator**
-* **MongoDB Hackathon Winner** - Leveraged few-shot learning on GPT to generate prompts for **Stable Diffusion**.
+* **MongoDB Hackathon** - Leveraged few-shot learning on GPT to generate prompts for **Stable Diffusion**.
 * Implemented **MongoDB vector search** for top-k image retrieval and integrated **AudioGen** + **ElevenLabs** for multilingual narration.
 
 ### **[Kabini - SQL Query Optimization](https://github.com/AdityaHegde23/kabini)**
