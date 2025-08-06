@@ -2,7 +2,7 @@
 I'm a Computer Science Master's graduate and Data/Software/AI Engineer passionate about building scalable, high-performance systems!
 
 🎓 **M.S. in Computer Science** from UC Riverside (3.85/4 GPA) with focus on AI, Data, and Machine Learning.  
-💻 Currently working as an **AI Developer Intern** at ImpacterAI.  
+💻 Currently working as an **AI Engineer** at Innoflexion.  
 🚀 **Google Cloud Certified Professional Data Engineer** with expertise in scalable cloud solutions.  
 🤝 Looking to collaborate on cutting-edge data engineering and AI projects.  
 🎯 2025 Goals: Advance in MLOps, contribute to open-source AI projects, and master distributed systems.  
@@ -68,11 +68,15 @@ I'm a Computer Science Master's graduate and Data/Software/AI Engineer passionat
 
 ## **💼 Professional Experience**
 
-### **AI Developer Intern | ImpacterAI, San Francisco**
-*June 2025 - Present*
-* Building and enhancing AI features while developing and optimizing **Flask-based backend systems**.
+### **AI Engineer | Innoflexion, Pleasonton, CA**
+*July 2025 - Present*
+* Developing AI features including LLM RAG and finetuning for code assistant and code generation.
 
-### **Founding Software Engineer | Blip Industries, Los Angeles**
+### **AI Developer Intern | ImpacterAI, San Francisco, CA**
+*June 2025 - July 2025*
+* Built AI workflows for campaign and lead management while developing and optimizing Flask-based backend systems.
+
+### **Founding Software Engineer | Blip Industries, Los Angeles, CA**
 *January 2025 - May 2025*
 * Developed **Flask backend** with **Firebase authentication** and **Firestore database**.
 * Engineered real-time drone streaming service using **NGINX** and **MediaMTX** on **GCP VMs** (RTMP/HLS).
